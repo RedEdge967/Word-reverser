@@ -8,6 +8,6 @@
 - or go to https://programiz.com/java-programming/online-compiler
 
 ## How to?
-- Download the main.java file and open it or copy the source code, go to https://programiz.com/java-programming/online-compiler and paste it.
+- Download the <kbd>main.java</kbd> file and open it or copy the source code, go to https://programiz.com/java-programming/online-compiler and paste it.
 
 > Don't just fork star too... ⭐
